@@ -1,13 +1,13 @@
 {
-  "name": "mock-server-app",
+  "name": "skin-server-app",
   "version": "1.0.0",
-  "description": "mock server app",
+  "description": "skin server app",
   "main": "server.js",
   "scripts": {
     "start": "node server.js" 
   },
   "keywords": [],
-  "author": "abdul",
+  "author": "shubham",
   "license": "ISC",
   "dependencies": {
     "json-server": "^0.17.0"
