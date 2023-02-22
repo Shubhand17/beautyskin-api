@@ -10,8 +10,8 @@
             "brand": "Confessions of a Rebel",
             "volume": "100ml",
             "directions": "Spray on pulse points",
-            "rating":"5",
-            "category":"perfume"
+            "rating": "5",
+            "category": "perfume"
         },
         {
             "id": 2,
@@ -23,8 +23,8 @@
             "brand": "Aesop",
             "volume": "50ml",
             "directions": "Apply as desired to wrists and nec",
-            "rating":"4",
-            "category":"perfume"
+            "rating": "4",
+            "category": "perfume"
         },
         {
             "id": 3,
@@ -36,8 +36,8 @@
             "brand": "Ellis Brooklyn",
             "volume": "10ml",
             "directions": "Spray on pulse points or on the body as desired.",
-            "rating":"5",
-            "category":"perfume"
+            "rating": "5",
+            "category": "perfume"
         },
         {
             "id": 4,
@@ -49,8 +49,8 @@
             "brand": "Juliette Has a Gun",
             "volume": "75ml",
             "directions": "1.Fragrance is intensified by the warmth of your own body. Apply in the creases of your knees and elbows for a longer-lasting, stronger scent 2. After applying, avoid rubbing or dabbing skin. This breaks down the fragrance, causing it to wear off more quickly.3.If you prefer placing fragrance on your wrists, be sure to reapply after frequent hand-washing, as this tends to rinse off the scent.",
-            "rating":"4",
-            "category":"perfume" 
+            "rating": "4",
+            "category": "perfume"
         },
         {
             "id": 5,
@@ -62,8 +62,8 @@
             "brand": "World of Chris Collins",
             "volume": "50ml",
             "directions": "Spray perfume onto pulse points on skin as well as clothes.",
-            "rating":"5",
-            "category":"perfume"
+            "rating": "5",
+            "category": "perfume"
         },
         {
             "id": 6,
@@ -75,8 +75,8 @@
             "brand": "TRUDON",
             "volume": "100ml",
             "directions": "Spray onto skin",
-            "rating":"4",
-            "category":"perfume"
+            "rating": "4",
+            "category": "perfume"
         },
         {
             "id": 7,
@@ -88,8 +88,8 @@
             "brand": "Veronique Gabai",
             "volume": "85ml",
             "directions": "Spray on pulse points.",
-            "rating":"5",
-            "category":"perfume"
+            "rating": "5",
+            "category": "perfume"
         },
         {
             "id": 8,
@@ -101,8 +101,8 @@
             "brand": "dunhill",
             "volume": "3.4 fl.oz",
             "directions": "Spray on pulse points: behind your ears, on your neck and on your wrists.",
-            "rating":"4",
-            "category":"perfume"
+            "rating": "4",
+            "category": "perfume"
         },
         {
             "id": 9,
@@ -114,8 +114,8 @@
             "brand": "dunhill",
             "volume": "3.4 fl.oz",
             "directions": "Spray on pulse points: behind your ears, on your neck and on your wrists.",
-            "rating":"4",
-            "category":"perfume"
+            "rating": "4",
+            "category": "perfume"
         },
         {
             "id": 10,
@@ -127,8 +127,8 @@
             "brand": "Liquides Imaginaires",
             "volume": "100ml",
             "directions": "External use only",
-            "rating":"5",
-            "category":"perfume"
+            "rating": "5",
+            "category": "perfume"
         },
         {
             "id": 11,
@@ -140,8 +140,8 @@
             "brand": "ARQUISTE Parfumeur",
             "volume": "100ml",
             "directions": "Spray the perfume directly on your skin. Select the areas of the body that are naturally warm , like your pulse points, the sides of the neck and your chest. Gently pat the fragrance, but never rub it in.",
-            "rating":"4",
-            "category":"perfume"
+            "rating": "4",
+            "category": "perfume"
         },
         {
             "id": 12,
@@ -153,8 +153,8 @@
             "brand": "ARQUISTE Parfumeur",
             "volume": "100ml",
             "directions": "Spray the perfume directly on your skin. Select the areas of the body that are naturally warm , like your pulse points, the sides of the neck and your chest. Gently pat the fragrance, but never rub it in.",
-            "rating":"4",
-            "category":"perfume"
+            "rating": "4",
+            "category": "perfume"
         },
         {
             "id": 13,
@@ -166,8 +166,8 @@
             "brand": "ARCONA",
             "volume": "",
             "directions": "Use 2–4 times a week: Apply 1 teaspoon to damp face, neck and décolleté in light upward and outward circles. Mix with water to desired consistency. Avoid eye area. Rinse well.",
-            "rating":"4",
-            "category":"body-washes"
+            "rating": "4",
+            "category": "body-washes"
         },
         {
             "id": 14,
@@ -179,8 +179,8 @@
             "brand": "Jurlique",
             "volume": "300ml",
             "directions": "Lather a generous amount onto damp skin before rinsing thoroughly.",
-            "rating":"4",
-            "category":"body-washes"
+            "rating": "4",
+            "category": "body-washes"
         },
         {
             "id": 15,
@@ -192,8 +192,8 @@
             "brand": "Epionce",
             "volume": "80z",
             "directions": "Cover the entire affected area with a thin layer and rinse thoroughly one to three times daily.",
-            "rating":"5",
-            "category":"body-washes"
+            "rating": "5",
+            "category": "body-washes"
         },
         {
             "id": 16,
@@ -205,8 +205,8 @@
             "brand": "Bioderma",
             "volume": "16.7 fl. oz",
             "directions": "ABCDerm Cleansing Milk may be used several times a day, seven days a week. Gently cleanse your child’s skin using a cotton pad soaked with the solution. Repeat until you get a clean cotton pad. Dry the skin delicately, without rubbing. For hygienic purposes, close the bottle tightly after use. Follow up with a moisturizer from our ABCDerm line. ABCDerm Cleansing Milk is suitable for newborns, with the exception of premature infants.",
-            "rating":"5",
-            "category":"body-washes"
+            "rating": "5",
+            "category": "body-washes"
         },
         {
             "id": 17,
@@ -218,8 +218,8 @@
             "brand": "APIVITA",
             "volume": "16.9 fl. Oz",
             "directions": "Apply a small amount on wet skin. Rinse well. Avoid eye contact. For external use only.",
-            "rating":"4",
-            "category":"body-washes"
+            "rating": "4",
+            "category": "body-washes"
         },
         {
             "id": 18,
@@ -231,8 +231,8 @@
             "brand": "Molton Brown",
             "volume": "300ml",
             "directions": "Spray the perfume directly on your skin. Select the areas of the body that are naturally warm , like your pulse points, the sides of the neck and your chest. Gently pat the fragrance, but never rub it in.",
-            "rating":"4",
-            "category":"body-washes"
+            "rating": "4",
+            "category": "body-washes"
         },
         {
             "id": 19,
@@ -244,8 +244,8 @@
             "brand": "Rahua",
             "volume": "280ml",
             "directions": "Spray the perfume directly on your skin. Select the areas of the body that are naturally warm , like your pulse points, the sides of the neck and your chest. Gently pat the fragrance, but never rub it in.",
-            "rating":"5",
-            "category":"body-washes"
+            "rating": "5",
+            "category": "body-washes"
         },
         {
             "id": 20,
@@ -257,8 +257,8 @@
             "brand": "Aromatherapy Associates",
             "volume": "250ml",
             "directions": "Smooth over skin before or during your shower or bath, before rinsing off.",
-            "rating":"5",
-            "category":"body-washes"
+            "rating": "5",
+            "category": "body-washes"
         },
         {
             "id": 21,
@@ -270,8 +270,8 @@
             "brand": "Bioderma",
             "volume": "500ml",
             "directions": "Once or twice a day - 7 days a week",
-            "rating":"5",
-            "category":"cream"
+            "rating": "5",
+            "category": "cream"
         },
         {
             "id": 22,
@@ -283,8 +283,8 @@
             "brand": "Elemis",
             "volume": "Body Oil: 3.3 fl. oz / Body Cream: 1.6 fl.oz / Milk Bath: 2 fl. oz",
             "directions": "Milk Bath: Add 3 capfuls to running bath water. Can also be used neat on the skin (on localised dry or irritated areas), as an all over body moisturiser or as an after sun lotion.",
-            "rating":"5",
-            "category":"cream"
+            "rating": "5",
+            "category": "cream"
         },
         {
             "id": 23,
@@ -296,8 +296,8 @@
             "brand": "Chantecaille",
             "volume": "200ml",
             "directions": "Apply generously morning and night by pouring into palms of hands and massaging into skin.",
-            "rating":"4",
-            "category":"cream"
+            "rating": "4",
+            "category": "cream"
         },
         {
             "id": 24,
@@ -309,8 +309,8 @@
             "brand": "SkinMedica",
             "volume": "6oz",
             "directions": "Dispense into hands and massage into the skin until product is fully absorbed. Apply to desired area twice daily or as needed. Do not apply to broken or irritated skin.",
-            "rating":"5",
-            "category":"cream"
+            "rating": "5",
+            "category": "cream"
         },
         {
             "id": 25,
@@ -322,8 +322,92 @@
             "brand": "Dr. Hauschka",
             "volume": "150ml",
             "directions": "Apply after showering, bathing sports or sauna. Skin looks and feels radiant and vital.",
-            "rating":"5",
-            "category":"cream"
+            "rating": "5",
+            "category": "cream"
         }
-    ]
+    ],
+    "Anthropology_home": {
+        "banner": "https://images.ctfassets.net/5de70he6op10/3eri4S7CUYNA223W694QUo/890cffce3e1cc21308f3051be0a76baa/473929293-ls_m1.jpg?w=2694&q=80&fm=webp",
+        "section_2": [
+            {
+                "image": "",
+                "title": ""
+            },
+            {
+                "image": "",
+                "title": ""
+            },
+            {
+                "image": "",
+                "title": ""
+            }
+        ],
+        "section_3": [
+            {
+                "image": "",
+                "title": ""
+            },
+            {
+                "image": "",
+                "title": ""
+            }
+        ],
+        "section_4": [
+            {
+                "image": "",
+                "title": ""
+            },
+            {
+                "image": "",
+                "title": ""
+            },
+            {
+                "image": "",
+                "title": ""
+            }
+        ],
+        "section_5": {
+            "image": "",
+            "title": ""
+        },
+        "top_rated_picks":[
+            {
+                "image":"",
+                "title":"",
+                "description":""
+            },
+            {
+                "image":"",
+                "title":"",
+                "description":""
+            },
+            {
+                "image":"",
+                "title":"",
+                "description":""
+            },
+            {
+                "image":"",
+                "title":"",
+                "description":""
+            }
+        ],
+        "more_to_explore": [
+            {
+                "image": "https://images.ctfassets.net/5de70he6op10/1Th4OWf9mWwZ5CZ8SQVxvp/eb5e76d1b3573ce5929ec9d44c6ef5bd/MTE_1.jpg?w=856&q=80&fm=webp",
+                "title": "Good Jeans: The Denim Fit Guide",
+                "description": "Introducing the perfect pairs for every wear. From rise to size, here's how to find your new favorite jeans."
+            },
+            {
+                "image": "https://images.ctfassets.net/5de70he6op10/5WIsO3hQfTDgsRbgTRuL1C/7f94871142c50d9ac7ed25e3afe8be92/469633343-020623_hpg_mte_2.jpg?w=856&q=80&fm=webp",
+                "title": "Good Jeans: The Denim Fit Guide",
+                "description": "Introducing the perfect pairs for every wear. From rise to size, here's how to find your new favorite jeans."
+            },
+            {
+                "image": "https://images.ctfassets.net/5de70he6op10/1Th4OWf9mWwZ5CZ8SQVxvp/eb5e76d1b3573ce5929ec9d44c6ef5bd/MTE_1.jpg?w=856&q=80&fm=webp",
+                "title": "Good Jeans: The Denim Fit Guide",
+                "description": "Introducing the perfect pairs for every wear. From rise to size, here's how to find your new favorite jeans."
+            }
+        ]
+    }
 }
