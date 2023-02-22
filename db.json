@@ -330,66 +330,151 @@
         "banner": "https://images.ctfassets.net/5de70he6op10/3eri4S7CUYNA223W694QUo/890cffce3e1cc21308f3051be0a76baa/473929293-ls_m1.jpg?w=2694&q=80&fm=webp",
         "section_2": [
             {
-                "image": "",
-                "title": ""
+                "image": "https://images.ctfassets.net/5de70he6op10/24XjZK35JsGCP4fmCO8580/6d8469a59dd0fea277acaa832dac4786/473929297-ls_m2a.jpg?w=856&q=80&fm=webp",
+                "title": "shop new clothing"
             },
             {
-                "image": "",
-                "title": ""
+                "image": "https://images.ctfassets.net/5de70he6op10/3i7R768ERr5ciI56znod56/151bbbbe9b52ff4c5fca01f76720fcbe/473929303-ls_m2b.jpg?w=856&q=80&fm=webp",
+                "title": "the getaway shop"
             },
             {
-                "image": "",
-                "title": ""
+                "image": "https://images.ctfassets.net/5de70he6op10/EO7OfU3ZWf8n7njPYNrCo/097740c34d53fbad8d6bbae669514b4a/473929312-ls_m2c.jpg?w=856&q=80&fm=webp",
+                "title": "shop swimwear"
             }
         ],
         "section_3": [
             {
-                "image": "",
-                "title": ""
+                "image": "https://images.ctfassets.net/5de70he6op10/5SpSw7RKfexkiiBBqnTSz0/020ab583c49d60f3053868bbaf0ed2e8/473929316-ls_m3a.jpg?w=1302&q=80&fm=webp",
+                "title": "shop kitchen & dining"
             },
             {
-                "image": "",
-                "title": ""
+                "image": "https://images.ctfassets.net/5de70he6op10/6VLdLozl8tBTMYC7Bjy39f/29875f9e1e26ad89cd2a502f70dc9eba/473929321-ls_m3b.jpg?w=1302&q=80&fm=webp",
+                "title": "shop furniture"
             }
         ],
         "section_4": [
             {
-                "image": "",
-                "title": ""
+                "image": "https://images.ctfassets.net/5de70he6op10/wH3s9ULThzua1X1ZTzDMx/3a9607dc9e8636eb96ca159919afa542/473929336-ls_m4a.jpg?w=856&q=80&fm=webp",
+                "title": "shop spring entertaining essentials"
             },
             {
-                "image": "",
-                "title": ""
+                "image": "https://images.ctfassets.net/5de70he6op10/2ABHGD0yJQ3NHq6iiJWTUw/194b56bf722572e79d65a9ed6293bb46/473929340-ls_m4b.jpg?w=856&q=80&fm=webp",
+                "title": "shop tops"
             },
             {
-                "image": "",
-                "title": ""
+                "image": "https://images.ctfassets.net/5de70he6op10/7yrEmAMeP6Kx7XthafpP8b/cb1869eb48809f1b667c1b1262cc8085/473929343-ls_m4c.jpg?w=856&q=80&fm=webp",
+                "title": "shop dresses"
             }
         ],
         "section_5": {
-            "image": "",
-            "title": ""
+            "image": "https://images.ctfassets.net/5de70he6op10/BYqngT4RGr1qC07s5Stvm/45ac7c1b8ee7fc4ba75a71c5bae96223/473929345-ls_m5_bhldn.jpg?w=2694&q=80&fm=webp",
+            "title": "shop weddings"
         },
-        "top_rated_picks":[
+        "top_rated_picks": [
             {
-                "image":"",
-                "title":"",
-                "description":""
+                "image": "https://images.ctfassets.net/5de70he6op10/1h9gkbrJB6rfKMEsrQsrlE/75fdaefe631d2d0e38d24b5e5d68ec10/473929238-ls_customerfave_a.jpg?w=630&q=80&fm=webp",
+                "title": "The Marais Chiffon Maxi Dress",
+                "description": "Love - I have this in three colors. Why? Because you can throw it on, and the fit is seamless, it’s comfy it’s breezy."
             },
             {
-                "image":"",
-                "title":"",
-                "description":""
+                "image": "https://images.ctfassets.net/5de70he6op10/2bvup8dYlhV23fJF8JWtBi/f007eb7c84134bfe87c3dd3669ffd06f/473929242-ls_customerfave_b.jpg?w=630&q=80&fm=webp",
+                "title": "The Super Mini Slouchy Bag",
+                "description": "Super cute, perfect little crossbody. Holds your phone, money, lipstick and keys."
             },
             {
-                "image":"",
-                "title":"",
-                "description":""
+                "image": "https://images.ctfassets.net/5de70he6op10/7e6CTKkxyvEGN65qcfAD6e/833ca12cd46657912e24e81a42fc086a/473929246-ls_customerfave_c.jpg?w=630&q=80&fm=webp",
+                "title": "The Bennet Buttondown Shirt",
+                "description": "Oversized in the best way...it's a perfect cotton shirt."
             },
             {
-                "image":"",
-                "title":"",
-                "description":""
+                "image": "https://images.ctfassets.net/5de70he6op10/IRIRM5boIBRZTPtM9RGo2/d5a954acdea330f877f48ee00b9dd9e7/473929254-ls_customerfave_d.jpg?w=630&q=80&fm=webp",
+                "title": "The Colette Wide-Leg Pants",
+                "description": "I LOVE THESE PANTS! They feel good on, whether I'm standing, sitting, or walking. Overall 10/10 would recommend!"
+            }
+        ],
+        "you_may_also_like": [
+            {
+                "image1": "https://images.urbndata.com/is/image/Anthropologie/4130647160161_001_b2?$an-category$&qlt=80&fit=constrain",
+                "image2": "https://images.urbndata.com/is/image/Anthropologie/4130370060123_011_b2?$a15-pdp-detail-shot$&fit=constrain&fmt=webp&qlt=80&wid=720",
+                "title": "By Anthropologie Lace-Trim A-Line Dress"
+            },
+            {
+                "image1": "https://images.urbndata.com/is/image/Anthropologie/4130370060133_018_b?$a15-pdp-detail-shot$&fit=constrain&fmt=webp&qlt=80&wid=720",
+                "image2": "https://images.urbndata.com/is/image/Anthropologie/4130370060133_018_b2?$a15-pdp-detail-shot$&fit=constrain&fmt=webp&qlt=80&wid=720",
+                "title": "The Silverlake Flutter-Sleeve Dress"
+            },
+            {
+                "image1": "https://images.urbndata.com/is/image/Anthropologie/4130916210113_065_b?$a15-pdp-detail-shot$&fit=constrain&fmt=webp&qlt=80&wid=720",
+                "image2": "https://images.urbndata.com/is/image/Anthropologie/4130916210113_065_b3?$a15-pdp-detail-shot$&fit=constrain&fmt=webp&qlt=80&wid=720",
+                "title": "The Marais Printed Chiffon Mini Dress"
+            },
+            {
+                "image1": "https://images.urbndata.com/is/image/Anthropologie/4130635560014_061_b?$a15-pdp-detail-shot$&fit=constrain&fmt=webp&qlt=80&wid=720",
+                "image2": "https://images.urbndata.com/is/image/Anthropologie/4130635560014_061_b2?$a15-pdp-detail-shot$&fit=constrain&fmt=webp&qlt=80&wid=720",
+                "title": "S/W/F Open-Back Dress"
+            },
+            {
+                "image1": "https://images.urbndata.com/is/image/Anthropologie/4130638280257_049_b?$a15-pdp-detail-shot$&fit=constrain&fmt=webp&qlt=80&wid=720",
+                "image2": "https://images.urbndata.com/is/image/Anthropologie/4130638280257_049_b2?$a15-pdp-detail-shot$&fit=constrain&fmt=webp&qlt=80&wid=720",
+                "title": "Farm Rio Smocked-Waist Dress"
+            },
+            {
+                "image1": "https://images.urbndata.com/is/image/Anthropologie/4130464030219_066_b?$a15-pdp-detail-shot$&fit=constrain&fmt=webp&qlt=80&wid=720",
+                "image2": "https://images.urbndata.com/is/image/Anthropologie/4130464030219_066_b2?$a15-pdp-detail-shot$&fit=constrain&fmt=webp&qlt=80&wid=720",
+                "title": "Hutch V-Neck High-Low Gown"
+            },
+            {
+                "image1": "https://images.urbndata.com/is/image/Anthropologie/4110578570069_010_b14?$a15-pdp-detail-shot$&fit=constrain&fmt=webp&qlt=80&wid=720",
+                "image2": "https://images.urbndata.com/is/image/Anthropologie/4110578570069_010_b3?$a15-pdp-detail-shot$&fit=constrain&fmt=webp&qlt=80&wid=720",
+                "title": "By Anthropologie Long Ruffled Tunic"
+            },
+            {
+                "image1": "https://images.urbndata.com/is/image/Anthropologie/4130607630013_026_b?$a15-pdp-detail-shot$&fit=constrain&fmt=webp&qlt=80&wid=720",
+                "image2": "https://images.urbndata.com/is/image/Anthropologie/4130607630013_026_b4?$a15-pdp-detail-shot$&fit=constrain&fmt=webp&qlt=80&wid=720",
+                "title": "The Maya Ruched Cowl-Neck Dress"
+            },
+            {
+                "image1": "https://images.urbndata.com/is/image/Anthropologie/4130647160164_001_b14?$a15-pdp-detail-shot$&fit=constrain&fmt=webp&qlt=80&wid=720",
+                "image2": "https://images.urbndata.com/is/image/Anthropologie/4130647160164_001_c?$a15-pdp-detail-shot$&fit=constrain&fmt=webp&qlt=80&wid=720",
+                "title": "By Anthropologie Squareneck Slip Dress"
+            }
+        ],
+
+        "recently_viewed":[
+            {
+              "image1":"https://images.urbndata.com/is/image/Anthropologie/4123650590131_001_b16?$a15-pdp-detail-shot$&fit=constrain&fmt=webp&qlt=80&wid=720",
+              "image2":"https://images.urbndata.com/is/image/Anthropologie/4123650590131_001_b?$a15-pdp-detail-shot$&fit=constrain&fmt=webp&qlt=80&wid=720",
+              "title":"The Colette Cropped Wide-Leg Pants"
+            },
+            {
+              "image1":"https://images.urbndata.com/is/image/Anthropologie/58028085_001_b2?$a15-pdp-detail-shot$&fit=constrain&fmt=webp&qlt=80&wid=720",
+              "image2":"https://images.urbndata.com/is/image/Anthropologie/58028085_001_a?$a15-pdp-detail-shot$&fit=constrain&fmt=webp&qlt=80&wid=720",
+              "title":"Capri Blue Volcano Matte Black Jar Candle"
+            },
+            {
+              "image1":"https://images.urbndata.com/is/image/Anthropologie/4111916210042_015_b?$a15-pdp-detail-shot$&fit=constrain&fmt=webp&qlt=80&wid=720",
+              "image2":"https://images.urbndata.com/is/image/Anthropologie/4111916210042_015_b2?$a15-pdp-detail-shot$&fit=constrain&fmt=webp&qlt=80&wid=720",
+              "title":"Pilcro Spliced Henley Top"
+            },
+            {
+              "image1":"https://images.urbndata.com/is/image/Anthropologie/76124932_266_b?$a15-pdp-detail-shot$&fit=constrain&fmt=webp&qlt=80&wid=720",
+              "image2":"https://images.urbndata.com/is/image/Anthropologie/76124932_266_a?$a15-pdp-detail-shot$&fit=constrain&fmt=webp&qlt=80&wid=720",
+              "title":"Capri Blue Pink Shimmer Jar Candle"
+            },
+            {
+              "image1":"https://images.urbndata.com/is/image/Anthropologie/52733375_011_b?$a15-pdp-detail-shot$&fit=constrain&fmt=webp&qlt=80&wid=960",
+              "image2":"https://images.urbndata.com/is/image/Anthropologie/52733375_011_b2?$a15-pdp-detail-shot$&fit=constrain&fmt=webp&qlt=80&wid=960",
+              "title":"Capri Blue Capiz Jar Candle"
+            },
+            {
+              "image1":"https://images.urbndata.com/is/image/Anthropologie/D48088652_901_b20?$a15-pdp-detail-shot$&fit=constrain&fmt=webp&qlt=80&wid=960",
+              "image2":"https://images.urbndata.com/is/image/Anthropologie/D48088652_901_b?$a15-pdp-detail-shot$&fit=constrain&fmt=webp&qlt=80&wid=960",
+              "title":"Tiled Margot Monogram Mug"
+            },
+            {
+              "image1":"https://images.urbndata.com/is/image/Anthropologie/4130578570023_041_b?$a15-pdp-detail-shot$&fit=constrain&fmt=webp&qlt=80&wid=960",
+              "image2":"https://images.urbndata.com/is/image/Anthropologie/4130578570023_041_b2?$a15-pdp-detail-shot$&fit=constrain&fmt=webp&qlt=80&wid=960",
+              "title":"The Somerset Maxi Dress: Embroidered Edition"
             }
         ],
         "more_to_explore": [
@@ -400,14 +485,15 @@
             },
             {
                 "image": "https://images.ctfassets.net/5de70he6op10/5WIsO3hQfTDgsRbgTRuL1C/7f94871142c50d9ac7ed25e3afe8be92/469633343-020623_hpg_mte_2.jpg?w=856&q=80&fm=webp",
-                "title": "Good Jeans: The Denim Fit Guide",
-                "description": "Introducing the perfect pairs for every wear. From rise to size, here's how to find your new favorite jeans."
+                "title": "2023 | routine refresh",
+                "description": "From fresh-faced skincare formulas to floral-inflected fragrances to now-trending nails, we have everything you need."
             },
             {
-                "image": "https://images.ctfassets.net/5de70he6op10/1Th4OWf9mWwZ5CZ8SQVxvp/eb5e76d1b3573ce5929ec9d44c6ef5bd/MTE_1.jpg?w=856&q=80&fm=webp",
-                "title": "Good Jeans: The Denim Fit Guide",
-                "description": "Introducing the perfect pairs for every wear. From rise to size, here's how to find your new favorite jeans."
+                "image": "https://images.ctfassets.net/5de70he6op10/6i8iGrDlh9MWYQ5Za3Ifb8/b3bb93892619d7317eaffc08861f5b60/473929355-mte_3.jpg?w=856&q=80&fm=webp",
+                "title": "Spring 2023: Pattern + Texture",
+                "description": "Blurring the lines of indoors and out, our Spring 2023 collection fits naturally into the 1953 residence of landscape-architect James Rose."
             }
+            
         ]
     }
 }
